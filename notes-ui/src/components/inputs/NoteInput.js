@@ -8,7 +8,7 @@ export const NoteInput = (props) => {
   return (
     <>
       <Col span={24}>
-        <Title>Note your ideas!</Title>
+        <Title># Note your ideas!</Title>
         <br /> <br />
         <Col offset={22}>
           <Button

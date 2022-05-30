@@ -2,7 +2,7 @@
 
 export const noteCreateBg = {
     display: "flex",
-    background: "rgb(255 179 179)",
+    background: "rgb(28 109 114)",
     padding: 35,
     height: 100,
     marginBottom: 0,

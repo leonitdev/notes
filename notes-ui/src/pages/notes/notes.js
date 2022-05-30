@@ -97,7 +97,7 @@ function NotesPage() {
 
   return (
     <>
-      <Col className="App" style={{ height: "100vh" }}>
+      <Col className="App" style={{ height: "100vh",background:'whitesmoke' }}>
         <Col className="noteCreateBg" style={noteCreateBg}>
           <NoteInput showModal={showModal} onCreateNote={createNote} />
         </Col>
