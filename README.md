@@ -18,5 +18,8 @@ Simple notes dashboard, in which you can, create, update, delete and arrange not
 * go to project notes_project/notes-ui--> run npm i && npm start
 * open: http://localhost:3000
  
+ 
+ #### Swagger url
+ open: http://localhost:4000/api 
 
 
